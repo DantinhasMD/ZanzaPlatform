@@ -19,24 +19,25 @@ Define:
 ### 2. Domínio - [Acesse Aqui](https://docs.google.com/document/d/1PzopKRsy1lOq3jaBGLi0-6iKnwgMvbjLMDKLwYCls10/edit?usp=sharing)
 
 O objetivo é estabelecer uma linguagem ubíqua e compartilhada para o desenvolvimento da plataforma, garantindo consistência entre:
-produto;
-arquitetura;
-banco de dados;
-APIs;
-analytics;
-experiência do usuário;
-regras de negócio.
+- produto;
+- arquitetura;
+- banco de dados;
+- APIs;
+- analytics;
+- experiência do usuário;
+- regras de negócio.
 
 
-### 3. Roadmap
+### 3. Roadmap [Acesse Aqui](https://docs.google.com/document/d/1aqzNV33_UMIjWzCS4egYmOEzsmP-WzIpvPJhJbZffss/edit?usp=sharing)
 
-Transforma visão em execução:
-- fases,
-- entregas,
-- milestones,
-- riscos,
-- dependências,
-- evolução arquitetural.
+Este documento define o roadmap estratégico, técnico, científico e operacional do Zanza. O roadmap possui como objetivo orientar:
+
+- evolução do produto;
+- validação científica;
+- maturidade tecnológica;
+- estruturação da plataforma;
+- expansão territorial;
+- consolidação analítica.
 
 ### 4. Engenharia do Sistema
 

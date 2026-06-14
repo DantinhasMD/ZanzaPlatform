@@ -5,9 +5,9 @@ Repositório público para divulgação do Zanza
 [Pasta com a Documentação Oficial](https://drive.google.com/drive/folders/1JQ-ZmOMfW3I7bkwBfpqUXhaUbFxD6i0Q?usp=drive_link)
 
 
-1. Visão do Produto - [Acesse Aqui](https://docs.google.com/document/d/1qstjwpB9KTdUaiTXQGhE023gXR_xuJSO0n_tKotYmkQ/edit?usp=sharing)
-Define:
+## 1. Visão do Produto - [Acesse Aqui](https://docs.google.com/document/d/1qstjwpB9KTdUaiTXQGhE023gXR_xuJSO0n_tKotYmkQ/edit?usp=sharing)
 
+Define:
 - o que é o Zanza,
 - por que ele existe,
 - qual problema resolve,
@@ -16,7 +16,8 @@ Define:
 - visão de longo prazo,
 - hipóteses do produto.
 
-2. Domínio - [Acesse Aqui](https://docs.google.com/document/d/1PzopKRsy1lOq3jaBGLi0-6iKnwgMvbjLMDKLwYCls10/edit?usp=sharing)
+### 2. Domínio - [Acesse Aqui](https://docs.google.com/document/d/1PzopKRsy1lOq3jaBGLi0-6iKnwgMvbjLMDKLwYCls10/edit?usp=sharing)
+
 O objetivo é estabelecer uma linguagem ubíqua e compartilhada para o desenvolvimento da plataforma, garantindo consistência entre:
 produto;
 arquitetura;
@@ -27,9 +28,9 @@ experiência do usuário;
 regras de negócio.
 
 
-3. Roadmap
-Transforma visão em execução:
+### 3. Roadmap
 
+Transforma visão em execução:
 - fases,
 - entregas,
 - milestones,
@@ -37,9 +38,9 @@ Transforma visão em execução:
 - dependências,
 - evolução arquitetural.
 
-4. Engenharia do Sistema
-Define:
+### 4. Engenharia do Sistema
 
+Define:
 - funcionamento sistêmico,
 - requisitos não-funcionais,
 - limites,
@@ -49,9 +50,9 @@ Define:
 - fluxo de dados,
 - tolerância a falhas.
 
-5. Arquitetura
-Define:
+### 5. Arquitetura
 
+Define:
 arquitetura lógica,
 componentes,
 serviços,
@@ -60,9 +61,9 @@ comunicação,
 padrões,
 decisões estruturais.   
      
-6. Banco de Dados
-Define:
+### 6. Banco de Dados
 
+Define:
 - modelo relacional,
 - modelo geoespacial,
 - índices,
@@ -73,9 +74,9 @@ Define:
 - consistência,
 - escalabilidade futura.
 
-7. Banco de Dados
-Define:
+### 7. Banco de Dados
 
+Define:
 - modelo relacional,
 - modelo geoespacial,
 - índices,
@@ -86,9 +87,9 @@ Define:
 - consistência,
 - escalabilidade futura.
 
-8. Infraestrutura
-Define:
+### 8. Infraestrutura
 
+Define:
 - ambientes,
 - CI/CD,
 - deploy,
@@ -101,9 +102,9 @@ Define:
 - CDN,
 - pipelines.
 
-9. Segurança
-Esse documento precisa definir:
+### 9. Segurança
 
+Esse documento precisa definir:
 - threat model,
 - autenticação,
 - autorização,
@@ -115,9 +116,9 @@ Esse documento precisa definir:
 - abuso do sistema,
 - manipulação de avaliações.
 
-10. UX e Fluxos
-Define:
+### 10. UX e Fluxos
 
+Define:
 - jornadas,
 - estados da aplicação,
 - fluxos críticos,
@@ -127,9 +128,9 @@ Define:
 - UX de confiança,
 - UX de risco urbano.
 
-11. APIs
-Define:
+### 11. APIs
 
+Define:
 - contratos,
 - endpoints,
 - payloads,
@@ -141,12 +142,13 @@ Define:
 - paginação,
 - webhooks futuros.
 
-12. ADRs
+### 12. ADRs
+
 Cada decisão importante vira um registro
 
-13. Dados Analíticos
-Esse documento define:
+### 13. Dados Analíticos
 
+Esse documento define:
 - eventos,
 - métricas,
 - agregações,

@@ -30,14 +30,21 @@ O objetivo é estabelecer uma linguagem ubíqua e compartilhada para o desenvolv
 
 ### 3. Roadmap [Acesse Aqui](https://docs.google.com/document/d/1aqzNV33_UMIjWzCS4egYmOEzsmP-WzIpvPJhJbZffss/edit?usp=sharing)
 
-Este documento define o roadmap estratégico, técnico, científico e operacional do Zanza. O roadmap possui como objetivo orientar:
+Este documento define o roadmap inicial do Zanza, considerando a evolução do projeto sob perspectiva:
+- técnica;
+- científica;
+- operacional;
+- territorial;
+- analítica.
 
-- evolução do produto;
-- validação científica;
-- maturidade tecnológica;
-- estruturação da plataforma;
-- expansão territorial;
-- consolidação analítica.
+O roadmap busca orientar o desenvolvimento gradual da plataforma, priorizando:
+- validação do modelo perceptivo;
+- qualidade dos dados;
+- coerência analítica;
+- maturidade territorial;
+- aprendizado operacional.
+
+O Zanza ainda se encontra em fase experimental e de validação metodológica, portanto o roadmap é estruturado principalmente para reduzir incertezas fundamentais do projeto antes de qualquer expansão em larga escala.
 
 ### 4. Engenharia do Sistema
 

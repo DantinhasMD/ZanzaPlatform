@@ -16,15 +16,16 @@ Define:
 - visão de longo prazo,
 - hipóteses do produto.
 
-2. Domínio
-Define:
+2. Domínio - [Acesse Aqui](https://docs.google.com/document/d/1PzopKRsy1lOq3jaBGLi0-6iKnwgMvbjLMDKLwYCls10/edit?usp=sharing)
+O objetivo é estabelecer uma linguagem ubíqua e compartilhada para o desenvolvimento da plataforma, garantindo consistência entre:
+produto;
+arquitetura;
+banco de dados;
+APIs;
+analytics;
+experiência do usuário;
+regras de negócio.
 
-- linguagem ubíqua,
-- entidades centrais,
-- bounded contexts,
-- relações conceituais,
-- eventos do domínio,
-- regras reais do negócio.
 
 3. Roadmap
 Transforma visão em execução:
